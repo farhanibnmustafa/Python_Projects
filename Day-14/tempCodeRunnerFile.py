@@ -1,0 +1,1 @@
+def check_result(compare_a,compare_b):
